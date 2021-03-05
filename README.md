@@ -6,4 +6,4 @@
 
 ## UX Journal
 
-[Journal 1](https://usabilityengineering.github.io/ux-portfolio-cbfiggins/j01/README.md)
+[Journal 1](https://usabilityengineering.github.io/ux-portfolio-cbfiggins/j01)
