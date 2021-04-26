@@ -13,7 +13,7 @@ As you create more villagers you need to put them on different resources to make
 
 ![second](second.png)
 
-The more villagers you create, the more you can grow your economy. This also means you have more to manage. While the developers did a good job at making the different buttons and actions **learnable**, learning to properly manage your villagers will take lots of practice. 
+The more villagers you create, the more you can grow your economy. This also means you have more to manage. While the developers did a good job at making the different buttons and actions **learnable**, learning to properly manage your villagers will take lots of practice. In order to get good at the game, you need to make sure that you never have any villagers standing idle. They should always be building or gathering resources. This gets very difficult when you have dozens of villagers and are trying to manage an army at the same time. 
 
 ![third](third.png)
 
