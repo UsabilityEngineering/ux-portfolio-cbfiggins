@@ -13,4 +13,8 @@ As you create more villagers you need to put them on different resources to make
 
 ![second](second.png)
 
+The more villagers you create, the more you can grow your economy. This also means you have more to manage. While the developers did a good job at making the different buttons and actions **learnable**, learning to properly manage your villagers will take lots of practice. 
+
+![third](third.png)
+
 
