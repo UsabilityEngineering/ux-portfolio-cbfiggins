@@ -9,6 +9,8 @@ When you click on a villager, you can see the buildings they can build in the bo
 
 As you can see in the picture, there are icons the represent the different buildings you can create. When you highlight over them it also gives a description of what they do. This also applies to making military units; they get a description of what they do and of their strengths and weaknessses. This is an example of how the developers do a good job at increasing the game's **learnability**. The game uses icons to represent most things which is a good way to get an idea of what they might do. 
 
+As you create more villagers you need to put them on different resources to make sure you have enough to build buildings and purchase upgrades. You need to make sure you have a balanced economy so you aren't running out of any specific resource. 
+
 ![second](second.png)
 
-As you create more villagers you need to put them on different resources to make sure you have enough to build buildings and purchase upgrades. You need to make sure you have a balanced economy so you aren't running out of any specific resource. 
+
