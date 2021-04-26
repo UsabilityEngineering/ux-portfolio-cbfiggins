@@ -17,4 +17,6 @@ The more villagers you create, the more you can grow your economy. This also mea
 
 ![third](third.png)
 
+You want to build an army to attack your opponents, but also so you can defend your base. Fighting other players can distract you from your villagers and base which can lead you to fall behind economically. It is hard to manage multiple things at once, especially when you have over 100 units to manage. This is what actually makes the game not very **learnable** overall. It isn't too difficult to learn different parts of the game, but when you put it all together and do it all at once it can be very difficult and overwhelming. You need to make sure you are always researching upgrades, collecting resources, building houses, building defenses, etc. Learning to manage all these things effectively and to be able to come up with good strategies to defeat you opponents can take hundreds of hours of work, making this game not easy to learn.
 
+![fifth](fifth.png)
