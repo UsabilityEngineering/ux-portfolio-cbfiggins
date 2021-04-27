@@ -22,3 +22,4 @@ You want to build an army to attack your opponents, but also so you can defend y
 ![fifth](fifth.png)
 
 While this game takes a lot of effort to learn, it is also very **memorable**. Lots of the things you do in the game become a habit. The game has hotkeys on the keyboard that can do actions rather than clicking on the icons with your mouse. This speeds things up and is easy to remember once you learn them. I'm at the point where if I want to build certain buildings I just press the key to create it from memory. Once you learn things about the game it is easy to remember them, but there is just always more to learn and improve on. Every game I play I am learning what I need to improve on and I remember to work on that in my next match.  
+
