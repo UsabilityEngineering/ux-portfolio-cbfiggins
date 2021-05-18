@@ -2,7 +2,7 @@
 
 
 ## UX Team Project
-[Project](https://usabilityengineering.github.io/ShowSpotter/)
+[Show Spotter](https://usabilityengineering.github.io/ShowSpotter/)
 
 ## UX Journal
 
