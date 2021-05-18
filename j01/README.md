@@ -41,7 +41,7 @@ I had to scroll down the page to find it.
 
 
 I feel that there were several goals of usability that Navair didn't take into consideration when creating their website. One of the usability goals Navair 
-didn't take into consideration much was to make the website **Satisfying**. The website isn't very visually appealing which is a problem I see with a lot of 
+didn't take into consideration much was to make the website **satisfying**. The website isn't very visually appealing which is a problem I see with a lot of 
 government websites. The website at times left me confused or frustrated by the decisions they made when creating the website. 
 It just didn't feel good to use and left me with a negative experience. Another goal that they failed to meet was **efficiency**. This would be if 
 it didn't take much effort to reach your goal on the website. It shouldn't take the user multiple tries to get back to the homepage. I also ran into 
